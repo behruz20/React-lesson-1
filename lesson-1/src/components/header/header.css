@@ -1,0 +1,128 @@
+header {
+    width: 100%;
+    height: Hug (70px)px;
+    padding: 15px 100px 15px 100px;
+    gap: 10px;
+    opacity: 0px;
+    background: #282829;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar>ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    text-decoration: none;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    text-align: left;
+}
+
+@media (max-width: 768px) {
+    header {
+        width: 100%;
+        height: Hug (70px)px;
+        padding: 15px 100px 15px 100px;
+        gap: 10px;
+        opacity: 0px;
+        background: #282829;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .navbar>ul {
+        display: flex;
+        gap: 30px;
+        list-style: none;
+        text-decoration: none;
+    }
+    
+    a {
+        list-style: none;
+        text-decoration: none;
+        color: #FFFFFF;
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 21.78px;
+        text-align: left;
+    }
+}
+
+@media (max-width: 600px) {
+    header {
+        width: 124%;
+        height: Hug (70px)px;
+        padding: 15px 100px 15px 100px;
+        gap: 10px;
+        opacity: 0px;
+        background: #282829;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .navbar>ul {
+        display: flex;
+        gap: 30px;
+        list-style: none;
+        text-decoration: none;
+    }
+    
+    a {
+        list-style: none;
+        text-decoration: none;
+        color: #FFFFFF;
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 21.78px;
+        text-align: left;
+    }
+}
+
+
+@media (max-width: 460px) {
+    header {
+        width: 161%;
+        height: Hug (70px)px;
+        padding: 15px 100px 15px 100px;
+        gap: 10px;
+        opacity: 0px;
+        background: #282829;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .navbar>ul {
+        display: flex;
+        gap: 30px;
+        list-style: none;
+        text-decoration: none;
+    }
+    
+    a {
+        list-style: none;
+        text-decoration: none;
+        color: #FFFFFF;
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 21.78px;
+        text-align: left;
+    }
+}
+
+

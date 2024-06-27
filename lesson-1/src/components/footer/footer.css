@@ -1,0 +1,110 @@
+footer {
+    width: 100%;
+    height: Hug (70px)px;
+    padding: 15px 100px 15px 100px;
+    gap: 10px;
+    opacity: 0px;
+    background: #282829;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar>ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    text-decoration: none;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    text-align: left;
+
+}
+a:hover{
+    color: red;
+    transition: all 1s;
+}
+
+
+
+@media (max-width: 460px) {
+    footer {
+        width: 161%;
+        height: Hug (70px)px;
+        padding: 15px 100px 15px 100px;
+        gap: 10px;
+        opacity: 0px;
+        background: #282829;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .navbar>ul {
+        display: flex;
+        gap: 30px;
+        list-style: none;
+        text-decoration: none;
+    }
+    
+    a {
+        list-style: none;
+        text-decoration: none;
+        color: #FFFFFF;
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 21.78px;
+        text-align: left;
+    
+    }
+    a:hover{
+        color: red;
+        transition: all 1s;
+    }    
+}
+
+@media (max-width: 600px) {
+    footer {
+        width: 124%;
+        height: Hug (70px)px;
+        padding: 15px 100px 15px 100px;
+        gap: 10px;
+        opacity: 0px;
+        background: #282829;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .navbar>ul {
+        display: flex;
+        gap: 30px;
+        list-style: none;
+        text-decoration: none;
+    }
+    
+    a {
+        list-style: none;
+        text-decoration: none;
+        color: #FFFFFF;
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 21.78px;
+        text-align: left;
+    
+    }
+    a:hover{
+        color: red;
+        transition: all 1s;
+    }    
+}
